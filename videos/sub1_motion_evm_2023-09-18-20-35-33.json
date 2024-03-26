@@ -1,0 +1,13 @@
+{
+    "amplification": 20,
+    "date": "2023-09-18-20-45-33",
+    "file": "sub1.mp4",
+    "high": 3,
+    "levels": 3,
+    "low": 0.4,
+    "meta_target": ".\\videos\\sub1_motion_evm_2023-09-18-20-35-33.json",
+    "mode": "MOTION",
+    "output": ".\\videos",
+    "suffix": "motion",
+    "target": ".\\videos\\sub1_motion_evm_2023-09-18-20-35-33.mp4"
+}

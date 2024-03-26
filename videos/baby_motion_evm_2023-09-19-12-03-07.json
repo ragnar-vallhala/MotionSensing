@@ -1,0 +1,13 @@
+{
+    "amplification": 20,
+    "date": "2023-09-19-12-13-53",
+    "file": "baby.mp4",
+    "high": 3,
+    "levels": 3,
+    "low": 0.4,
+    "meta_target": ".\\videos\\baby_motion_evm_2023-09-19-12-03-07.json",
+    "mode": "MOTION",
+    "output": ".\\videos",
+    "suffix": "motion",
+    "target": ".\\videos\\baby_motion_evm_2023-09-19-12-03-07.mp4"
+}

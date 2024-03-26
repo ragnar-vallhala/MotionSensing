@@ -1,0 +1,4 @@
+*.mp4
+test_videos/*
+*.avi
+*.pyc
